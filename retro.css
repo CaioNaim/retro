@@ -1,0 +1,22 @@
+body {
+	background-image: url("img/background/literature.jpg");
+	height: 100%;
+	background-attachment: fixed;
+}
+.row.white {
+	margin-top: 75vh;
+    margin-bottom: 75vh;
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+}
+span{
+	font-family: 'Dosis', sans-serif;
+	font-size: 1.8em;
+}
+nav ul li a{
+	font-family: 'Dosis', sans-serif;
+}
+footer img{
+	height: 3vh;
+
+}
